@@ -40,9 +40,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prasannagirish&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prasannagirish&theme=dracula&margin-w=15&margin-h=15" height="150" alt="trophy graph"  />
-  </a>
 </div>
 
 ###
