@@ -59,7 +59,7 @@
   <img src="https://komarev.com/ghpvc/?username=prasannagirish&label=Profile%20views&color=0e75b6&style=flat" alt="prasannagirish" /> 
 </p>
 
-- 🔭 I’m currently working on **Ericsson MLOps**
+- 🔭 I’m currently working on **MLOps**
 
 - 👯 I’m looking to collaborate on **Machine learning Operations and AI-driven applications**
 
