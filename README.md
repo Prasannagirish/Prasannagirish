@@ -63,4 +63,4 @@
 
 - 👯 I’m looking to collaborate on **Machine learning Operations and AI-driven applications**
 
-- 📫 How to reach me: **girishprasanna11@gmail.com**
+- 📫 How to reach me: **girishprasanna384@gmail.com**
